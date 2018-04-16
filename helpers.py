@@ -7,6 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 import praw
 import credentials as creds
+from nltk.corpus import stopwords
 
 def getThreads(subreddit, limit = 20):
     thread_ids = []
