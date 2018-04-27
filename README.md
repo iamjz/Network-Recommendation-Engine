@@ -8,8 +8,3 @@ Recommendation engine API that refers you to 5 likeminded people based on your r
 
 ### What makes this unique?:
 Matches individuals based on talking points instead of personality questionnaires.
-
-## Implementation:
-* Gather: 
-* Recommend:
-* Validate:
