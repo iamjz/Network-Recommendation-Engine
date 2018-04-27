@@ -1,4 +1,4 @@
-# NETWORK RECOMMENDATION ENGINE (using Reddit comments)
+# NETWORK RECOMMENDATION ENGINE
 
 ## Problem: 
 People tend to self-identify and stay within their own social circle of friends and colleagues. They are unwittingly excluding others with different labels from their network
